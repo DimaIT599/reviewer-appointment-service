@@ -1,0 +1,9 @@
+postgres:
+  host: localhost
+  user: postgres
+  password: postgres
+  database: reviewer_appointment
+  port: 5432
+
+server:
+  port: 8081
